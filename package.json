@@ -1,6 +1,6 @@
 {
   "name": "react-random-number-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "rand rnd random generator react",
   "main": "app.js",
   "scripts": {
@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/DANGVANLAM1221/react-random-number-generator#readme",
   "dependencies": {
-    "web3-eve-cli": "^1.1.0",
-    "web3-react-task": "^1.0.0",
     "ava": "1.0.0-beta.6",
-    "meow": "^5.0.0"
+    "calculator-sim": "^1.0.0",
+    "meow": "^5.0.0",
+    "number-extrarandom-cli": "^1.0.0",
+    "number-rand-cli": "^1.0.0",
+    "react-random-number-generator": "^1.0.0",
+    "round-number-cli": "^1.0.0",
+    "web3-eve-cli": "^1.1.0",
+    "web3-react-task": "^1.0.0"
   }
 }
