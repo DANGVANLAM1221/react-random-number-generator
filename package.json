@@ -1,0 +1,25 @@
+{
+  "name": "react-random-number-generator",
+  "version": "1.0.0",
+  "description": "rand rnd random generator react",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DANGVANLAM1221/react-random-number-generator.git"
+  },
+  "author": "Lam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DANGVANLAM1221/react-random-number-generator/issues"
+  },
+  "homepage": "https://github.com/DANGVANLAM1221/react-random-number-generator#readme",
+  "dependencies": {
+    "web3-eve-cli": "^1.1.0",
+    "web3-react-task": "^1.0.0",
+    "ava": "1.0.0-beta.6",
+    "meow": "^5.0.0"
+  }
+}
