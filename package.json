@@ -1,6 +1,6 @@
 {
   "name": "react-random-number-generator",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "rand rnd random generator react",
   "main": "app.js",
   "scripts": {
@@ -8,22 +8,30 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/DANGVANLAM1221/react-random-number-generator.git"
+    "url": "https://github.com/DANGVANLAM1221/react-random-number-generator"
   },
+  "website": "https://github.com/DANGVANLAM1221/react-random-number-generator.git",
   "author": "Lam",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DANGVANLAM1221/react-random-number-generator/issues"
   },
   "homepage": "https://github.com/DANGVANLAM1221/react-random-number-generator#readme",
+  "devDependencies": {
+    "meow": "^5.0.0"
+  },
   "dependencies": {
     "ava": "1.0.0-beta.6",
-    "calculator-sim": "^1.0.0",
-    "meow": "^5.0.0",
-    "number-extrarandom-cli": "^1.0.0",
-    "number-rand-cli": "^1.0.0",
-    "react-random-number-generator": "^1.0.0",
+    "calculator-sim": "^1.1.0",
+    "markdown-expands-tab": "^1.2.0",
+    "number-extrarandom-cli": "^1.1.0",
+    "number-rand-cli": "^1.1.0",
+    "react-random-number-generator": "^1.1.0",
     "round-number-cli": "^1.0.0",
+    "solana-airdrop-checker": "^1.1.2",
+    "ssl-http-with-docker": "^1.1.0",
+    "urlbitbucket-to-object": "^1.0.1",
+    "urlgithub-to-object": "^1.0.3",
     "web3-eve-cli": "^1.1.0",
     "web3-react-task": "^1.0.0"
   }
